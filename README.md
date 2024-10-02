@@ -18,6 +18,7 @@ My goal: Code a better future.
 ***
 
 ## Contact Me
+| ---------------- | ---------------------------- |
 | :----:           | :----:                       |
 | Email:           | andrei.anghi.angly@gmail.com |
 | Tiktok:          | andreianghi                  |
@@ -28,3 +29,4 @@ My goal: Code a better future.
 | Linkedin:        | Andrei Anghi                 |
 | Discord:         | Andrei Anghi                 |
 | Portfolio:       | andreianghi.ddns.net         |
+| ---------------- | ---------------------------- |
