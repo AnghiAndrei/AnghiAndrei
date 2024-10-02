@@ -1,5 +1,5 @@
 ## Who I am
-![mia foto](io.webp)
+![mia foto](io.webp)  
 Hello, I'm Andrei Anghi, a full-stack programmer specializing in web development.  
 I am highly motivated, with a strong problem-solving attitude and always seeking new challenges.  
 Thanks to my experience, I can handle any project independently, respecting the requirements and deadlines.  
