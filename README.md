@@ -18,6 +18,10 @@ I obtained my diploma from IIS Ulderico Midossi in the ITT computer science prog
 My goal: Code a better future.
 |:---:|---|
 
+| ![Descrizione dell'immagine](path/to/your/image.jpg) | Questo è il testo che desideri posizionare accanto all'immagine. |
+|:---:|---|
+
+
 ***
 
 ## Work and Projects
