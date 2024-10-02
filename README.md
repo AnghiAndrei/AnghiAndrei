@@ -6,18 +6,27 @@ I obtained my diploma from IIS Ulderico Midossi in the ITT computer science prog
 
 My goal: Code a better future.
 
+***
+
 ## Work and Projects
+```
 [42RomaLuis](https://github.com/AnghiAndrei/42RomaLuis)
 [to-do-list](https://github.com/AnghiAndrei/to-do-list)
 [Formula_previsione_ingressi_ai_siti_web](https://github.com/AnghiAndrei/Formula_previsione_ingressi_ai_siti_web)
+```
+
+***
 
 ## Contact Me
-Email: andrei.anghi.angly@gmail.com
-Tiktok: andreianghi
-Youtube: Andrei Anghi
-Youtube gaming: andrei anghi gaming
-Instagram: andrei_anghi
-Twitter: AndreiAnghi
-Linkedin: Andrei Anghi
-Discord: Andrei Anghi
-Portfolio: andreianghi.ddns.net
+| ---------------- | ---------------------------- |
+| :----:           | :----:                       |
+| Email:           | andrei.anghi.angly@gmail.com |
+| Tiktok:          | andreianghi                  |
+| Youtube:         | Andrei Anghi                 |
+| Instagram:       | andrei_anghi                 |
+| Youtube gaming:  | andrei anghi gaming          |
+| Twitter:         | AndreiAnghi                  |
+| Linkedin:        | Andrei Anghi                 |
+| Discord:         | Andrei Anghi                 |
+| Portfolio:       | andreianghi.ddns.net         |
+| ---------------- | ---------------------------- |
