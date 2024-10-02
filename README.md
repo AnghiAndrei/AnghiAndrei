@@ -1,4 +1,19 @@
 ## Who I am
+|  |  |
+| <img src="io.webp" alt="foto" width="250" height="250"> | Hello, I'm Andrei Anghi, a full-stack programmer specializing in web development.  
+I am highly motivated, with a strong problem-solving attitude and always seeking new challenges.  
+Thanks to my experience, I can handle any project independently, respecting the requirements and deadlines.  
+Moreover, I am recognized as an excellent collaborator, appreciated for my ability to work in a team.
+Currently, I am 20 years old.  
+  
+I speak Italian fluently and have a good command of English and Romanian.  
+My journey into the world of computing began on October 26, 2019, experimenting with Batch.  
+I started sharing the world of computing on social media on September 7, 2022.  
+I obtained my diploma from IIS Ulderico Midossi in the ITT computer science program with a score of 80 out of 100.  
+Currently, I am pursuing my studies at the University 42 Roma Lius.
+My goal: Code a better future. |
+|  |  |
+
 <img src="io.webp" alt="foto" width="250" height="250">  
 Hello, I'm Andrei Anghi, a full-stack programmer specializing in web development.  
 I am highly motivated, with a strong problem-solving attitude and always seeking new challenges.  
