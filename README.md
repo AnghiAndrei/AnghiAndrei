@@ -1,5 +1,7 @@
 ## Who I am
-<center><img src="io.webp" alt="foto" width="250" height="250"></center>  
+<div style="text-align: center;">
+    <img src="io.webp" alt="foto" width="250" height="250">
+</div>  
 Hello, I'm Andrei Anghi, a full-stack programmer specializing in web development.  
 I am highly motivated, with a strong problem-solving attitude and always seeking new challenges.  
 Thanks to my experience, I can handle any project independently, respecting the requirements and deadlines.  
