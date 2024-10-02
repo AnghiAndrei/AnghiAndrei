@@ -9,11 +9,10 @@ My goal: Code a better future.
 ***
 
 ## Work and Projects
-```
-[42RomaLuis](https://github.com/AnghiAndrei/42RomaLuis)
-[to-do-list](https://github.com/AnghiAndrei/to-do-list)
-[Formula_previsione_ingressi_ai_siti_web](https://github.com/AnghiAndrei/Formula_previsione_ingressi_ai_siti_web)
-```
+- [42RomaLuis](https://github.com/AnghiAndrei/42RomaLuis)
+- [to-do-list](https://github.com/AnghiAndrei/to-do-list)
+- [Formula_previsione_ingressi_ai_siti_web](https://github.com/AnghiAndrei/Formula_previsione_ingressi_ai_siti_web)
+
 
 ***
 
