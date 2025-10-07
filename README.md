@@ -15,7 +15,7 @@ My goal: to code a better future.
 ***
 
 ## Work and Projects
-- c
+- [42RomaLuis](https://github.com/AnghiAndrei/42RomaLuis)
 - [to-do-list](https://github.com/AnghiAndrei/to-do-list)
 - [Formula_previsione_ingressi_ai_siti_web](https://github.com/AnghiAndrei/Formula_previsione_ingressi_ai_siti_web)
 
@@ -26,12 +26,12 @@ My goal: to code a better future.
 |  |  |
 | :----:           | :----:                       |
 | Email:           | andrei.anghi.angly@gmail.com |
-| Tiktok:          | andreianghi                  |
-| Youtube:         | Andrei Anghi                 |
-| Instagram:       | andrei_anghi                 |
-| Youtube gaming:  | andrei anghi gaming          |
-| Twitter:         | AndreiAnghi                  |
-| Linkedin:        | Andrei Anghi                 |
-| Discord:         | Andrei Anghi                 |
+| Tiktok:          | [andreianghi](https://www.tiktok.com/@andreianghi)                  |
+| Twitter:         | [AndreiAnghi](https://x.com/AndreiAnghi)                  |
+| Linkedin:        | [Andrei Anghi](https://www.linkedin.com/in/andreianghi/v)                 |
+| Instagram:       | [andrei_anghi](https://www.instagram.com/andrei_anghi)                 |
+| Youtube gaming:  | [andrei anghi gaming](https://www.youtube.com/@andreianghigaming)          |
+| Youtube:         | [Andrei Anghi](https://www.youtube.com/@AndreiAnghi)                 |
+| Discord:         | [Andrei Anghi](https://discord.com/invite/4JgCj4wrQTv)                 |
 | Portfolio:       | [andreianghi.ddns.net](https://andreianghi.ddns.net)         |
 |  |  |
