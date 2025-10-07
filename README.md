@@ -15,7 +15,7 @@ My goal: to code a better future.
 ***
 
 ## Work and Projects
-- [42RomaLuis](https://github.com/AnghiAndrei/42RomaLuis)
+- c
 - [to-do-list](https://github.com/AnghiAndrei/to-do-list)
 - [Formula_previsione_ingressi_ai_siti_web](https://github.com/AnghiAndrei/Formula_previsione_ingressi_ai_siti_web)
 
@@ -33,5 +33,5 @@ My goal: to code a better future.
 | Twitter:         | AndreiAnghi                  |
 | Linkedin:        | Andrei Anghi                 |
 | Discord:         | Andrei Anghi                 |
-| Portfolio:       | andreianghi.ddns.net         |
+| Portfolio:       | [andreianghi.ddns.net](https://andreianghi.ddns.net)         |
 |  |  |
